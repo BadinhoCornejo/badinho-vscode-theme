@@ -1,0 +1,22 @@
+{
+    "name": "badinho",
+    "displayName": "badinho",
+    "description": "A wild and contrasting theme for Visual Studio Code 👽",
+    "publisher": "badinho",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.51.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "badinho",
+                "uiTheme": "vs-dark",
+                "path": "./themes/badinho-color-theme.json"
+            }
+        ]
+    }
+}
