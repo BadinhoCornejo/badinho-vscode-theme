@@ -4,6 +4,10 @@
     "description": "A wild and contrasting theme for Visual Studio Code 👽",
     "publisher": "badinho",
     "version": "0.0.1",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/BadinhoCornejo/badinho-vscode-theme"
+    },
     "engines": {
         "vscode": "^1.51.0"
     },
